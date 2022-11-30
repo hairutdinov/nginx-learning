@@ -1,0 +1,13 @@
+version: '3.7'
+
+services:
+  ubuntu:
+    build: ./
+    container_name: nginx_in_ubuntu
+    working_dir: /usr/share/nginx/html
+    tty: true 
+    ports:
+      - "80:80"
+#    volumes:
+#      - ./html:/usr/local/nginx/html
+#      - ./conf:/etc/nginx
