@@ -11,3 +11,8 @@ docker exec -it nginx_in_ubuntu nginx
 ```bash
 docker exec -it nginx_in_ubuntu bash -c 'ps aux | grep nginx'
 ```
+
+### send stop signal
+```bash
+docker exec -it nginx_in_ubuntu nginx -s stop
+```
