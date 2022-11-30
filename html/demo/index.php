@@ -1,2 +1,2 @@
-<?php sleep(16) ?>
+<?php sleep(1) ?>
 <?= 'Hello from php'; ?>
