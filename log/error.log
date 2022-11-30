@@ -1,0 +1,2 @@
+2022/11/30 14:00:27 [error] 22#22: *2 open() "/usr/share/nginx/html/demo/missing" failed (2: No such file or directory), client: 192.168.48.1, server: localhost, request: "GET /missing HTTP/1.1", host: "localhost"
+2022/11/30 14:01:43 [emerg] 1#1: unknown log format "return" in /etc/nginx/nginx.conf:20

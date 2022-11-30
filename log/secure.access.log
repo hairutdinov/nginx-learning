@@ -1,0 +1,1 @@
+192.168.48.1 - - [30/Nov/2022:14:02:01 +0000] "GET /secure/123 HTTP/1.1" 200 23 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
